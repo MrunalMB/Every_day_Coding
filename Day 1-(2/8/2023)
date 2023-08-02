@@ -1,0 +1,18 @@
+class Solution {
+    // function to return sum of  1, 2, ... n
+    long seriesSum(int n) {
+       
+       long n1=n;
+       long x=((n1+1)*n1)/2;
+       return x;
+}
+}
+//python code
+class Solution {
+    // function to return sum of  1, 2, ... n
+    long seriesSum(int n) {
+       
+       long n1=n;
+       long x=((n1+1)*n1)/2;
+       return x;
+       
